@@ -9,27 +9,28 @@
 
 ##
 <h3 align="center">Our Project Logo.</h3> 
-“ EZList” An AI Grocery list that helps users sort their grocery list by category/location in the store. 
 
   ![Screenshot 2024-03-24 011921](https://github.com/luzritacco/WWC-Hackathon/assets/151267325/ac40a771-05dd-4aac-a9da-ae5f0894feb5)
+
+ **“ EZList”** An AI Grocery list that helps users sort their grocery list by category/location in the store. 
 
 ##
 + **Problem:** Without an organized shopping- list, it’s easy to forget what you need and buy items that you don’t need. This can lead to overspending and waste time and money. Moreover, without an organized shopping list can be overwhelming, especially if you’re shopping for a large family or for a special occasion. 
     
 + **Goal:** The app will help users sort their lists by grouping similar items together. This will make it easier for users to find what they need and reduce the time it takes to shop, avoid unplanned purchases, and save money by finding coupons for items on your list. 
 
-+ **Objective:** 
-    -The app will use machine learning algorithms to identify similar items on the list.
-  - the app will group together in the same category and will be trained on a large dataset of grocery items to ensure accuracy. 
++ **Objectives:**
+  - The app will use machine learning algorithms to identify similar items on the list.
+  - The app will group together in the same category and will be trained on a large dataset of grocery items to ensure accuracy. 
 + **Benefits:** 
    - Make grocery shopping more organized and enjoyable.
    - A shopping list app can help you save time and avoid unplanned purchases.
    - Simple- straight forward, the add will have easy access for all to use it.
    - Using A shopping list app can help you keep track of the items you need only, helping to reduce the amount of food user’s waste.
    -  A shopping list app can also help you save money by finding coupons for the items on the list.
-+ **Solution Proposal:**
- -Develop an app, EZList, that will use AI to identify similar items on the list and categorize them accordingly.
-  -App will use Firebase and BARD API for MVP.
++ **Solution Proposals:**
+  - Develop an app, EZList, that will use AI to identify similar items on the list and categorize them accordingly.
+  - App will use Firebase and BARD API for MVP.
 
   ![Screenshot 2024-03-24 012719](https://github.com/luzritacco/WWC-Hackathon/assets/151267325/fe7d4d3a-1a34-4937-adc3-e53e22460acd)
 
@@ -49,7 +50,8 @@
       [   Our Code: https://github.com/zchisholm/appDeploy23-TKH/tree/old-state](https://docs.google.com/presentation/d/1RacB4X9afDubTGUSsSo9evTK5ckV5FoUnYHDse5Ands/edit?usp=sharing)
      + **WWC Hackathon outline project:**        
 
-      [ https://1drv.ms/w/s!ArrXxP7mFzWXhGCh3iXzjYfqT4xo?e=vUmcS7](https://1drv.ms/w/s!ArrXxP7mFzWXhGA2QsVENGRi2kRI?e=5vqf8U)
+     https://1drv.ms/w/s!ArrXxP7mFzWXhGA2QsVENGRi2kRI?e=Ahbw6y
+    
  
 + **Next Steps(Improvements-Addition features:**
   -  The app can also automatically find coupons for the items on the list. It can search for coupons online and apply them to the user’s       purchase to save them money.
