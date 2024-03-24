@@ -1,4 +1,4 @@
-<h1 align="center">WWC-Hackathon.</h1>
+<h1 align="center">Women Who Code -Hackathon.</h1>
 <h1 align="center">WWC-Hackathon Team .</h1>
 
   ![2023-11-21 23_03_07-Clipboard](https://github.com/luzritacco/WWC-Hackathon/assets/151267325/7c49f03d-137e-4e4c-b144-ce765227c754)
