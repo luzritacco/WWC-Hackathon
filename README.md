@@ -58,7 +58,7 @@
   -    The App can be used for sorting lists of different topics, not just grocery lists. For example, it can be used to sort a to-do
         list, a list of books to read or movies/tv show to watch, etc. 
 ##
-<h3 align="center"> What I had learned from this Hackathon:
+<h3 align="center"> What we had learned from this Hackathon:
 
 ##
 **☑** Great learning experience
@@ -78,4 +78,4 @@
  
  ##
 
-•	**The WWC Hackathon** was a great experience for us, as it was our first time participating in such an event. We had the chance to work with amazing professionals from different backgrounds and fields. The hackathon challenged us to be creative and think outside the box, as we had to come up with a project idea and implement it within a limited time frame. We also learned how to manage our time and prioritize our tasks effectively, as we had to balance between coding, testing, and presenting our project.
+**The WWC Hackathon** was a great experience for us, as it was our first time participating in such an event. We had the chance to work with amazing professionals from different backgrounds and fields. The hackathon challenged us to be creative and think outside the box, as we had to come up with a project idea and implement it within a limited time frame. We also learned how to manage our time and prioritize our tasks effectively, as we had to balance between coding, testing, and presenting our project.
