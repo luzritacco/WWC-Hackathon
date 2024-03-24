@@ -43,7 +43,8 @@
 
      
      + **EZList Demo:**
-       Our Code: https://github.com/zchisholm/appDeploy23-TKH/tree/old-state
+   
+    [   Our Code: https://github.com/zchisholm/appDeploy23-TKH/tree/old-state](https://docs.google.com/presentation/d/1RacB4X9afDubTGUSsSo9evTK5ckV5FoUnYHDse5Ands/edit?usp=sharing)
         
 + **Timeline:**
    - Can be done in 2.5 days.
