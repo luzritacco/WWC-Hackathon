@@ -75,7 +75,7 @@
 
 **☑**Technical skills
 ##
-<h3 align="center"> Conclusion
+<h3 align="center"> Conclusion.</h3> 
 
  
  ##
