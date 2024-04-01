@@ -58,7 +58,7 @@
      https://1drv.ms/w/s!ArrXxP7mFzWXhGA2QsVENGRi2kRI?e=Ahbw6y
     
  
-+ **Next Steps(Improvements-Addition features:**
++ **Next Steps Improvements-Addition features:**
   -  The app can also automatically find coupons for the items on the list. It can search for coupons online and apply them to the user’s       purchase to save them money.
   -   Share a list with other people who can add or remove stuff as needed.
   -    Incorporate recipes that give automatic shop list make it easy to find the necessary ingredients for each recipe.
