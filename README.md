@@ -17,7 +17,9 @@
 ##
 <h3 align="center">Our Project Logo.</h3> 
 
-  ![Screenshot 2024-03-24 011921](https://github.com/luzritacco/WWC-Hackathon/assets/151267325/ac40a771-05dd-4aac-a9da-ae5f0894feb5)
+<p align="center">
+    <img src="https://github.com/luzritacco/WWC-Hackathon/assets/151267325/ac40a771-05dd-4aac-a9da-ae5f0894feb5=true" alt="Sublime's custom image" />
+</p>
 
  **“ EZList”** An AI Grocery list that helps users sort their grocery list by category/location in the store. 
 
@@ -39,7 +41,9 @@
   - Develop an app, EZList, that will use AI to identify similar items on the list and categorize them accordingly.
   - App will use Firebase and BARD API for MVP.
 
-  ![Screenshot 2024-03-24 012719](https://github.com/luzritacco/WWC-Hackathon/assets/151267325/fe7d4d3a-1a34-4937-adc3-e53e22460acd)
+<p align="center">
+    <img src="https://github.com/luzritacco/WWC-Hackathon/assets/151267325/fe7d4d3a-1a34-4937-adc3-e53e22460acd=true" alt="Sublime's custom image" />
+</p>
 
  + **Project Management:**
 
