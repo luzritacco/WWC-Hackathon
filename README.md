@@ -1,7 +1,9 @@
-<h1 align="center">Women Who Code -Hackathon.</h1>
+<h1 align="center">Women Who Code -Hackathon.</h1> 
 
+<p align="center">
+    <img src="https://github.com/luzritacco/WWC-Hackathon/assets/151267325/5bce2bee-73c5-4394-82c0-f86dfd1c7336=true" alt="Sublime's custom image" />
+</p>
 
-![Screenshot 2024-03-29 143205](https://github.com/luzritacco/WWC-Hackathon/assets/151267325/5bce2bee-73c5-4394-82c0-f86dfd1c7336)
 
 
 <h1 align="center">WWC-Hackathon Team.</h1>
