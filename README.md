@@ -55,13 +55,8 @@
 + **Timeline:**
    - Can be done in 2.5 days.
      
-     + **EZList Demo:**
-   
-
-      [   Our Code: https://github.com/zchisholm/appDeploy23-TKH/tree/old-state](https://docs.google.com/presentation/d/1RacB4X9afDubTGUSsSo9evTK5ckV5FoUnYHDse5Ands/edit?usp=sharing)
-     + **WWC Hackathon outline project:**        
-
-     https://1drv.ms/w/s!ArrXxP7mFzWXhGA2QsVENGRi2kRI?e=Ahbw6y
+- [EZList Demo:](https://github.com/zchisholm/appDeploy23-TKH/tree/old-state](https://docs.google.com/presentation/d/1RacB4X9afDubTGUSsSo9evTK5ckV5FoUnYHDse5Ands/edit?usp=sharing))
+- [WWC Hackathon outline project:](https://1drv.ms/w/s!ArrXxP7mFzWXhGA2QsVENGRi2kRI?e=Ahbw6y)
     
  
 + **Next Steps Improvements-Addition features:**
